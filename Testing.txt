@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-This is from the experimental branch!
->>>>>>> experimental
+This is from the cloned repo!
