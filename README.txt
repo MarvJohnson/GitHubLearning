@@ -1,1 +1,1 @@
-README files auto automatically displayed on the home page of the repository they belong to.
+README files are automatically displayed on the home page of the repository they belong to.
